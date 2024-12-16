@@ -1,9 +1,9 @@
 "use client";
 
-import Courses from '@/Components/Courses';
-import Footer from '@/Components/Footer';
-import JoinUsSection from '@/Components/JoinUsSection';
-import NewsAndArticles from '@/Components/NewsAndArticles';
+import Courses from '@/components/Courses';
+import Footer from '@/components/Footer';
+import JoinUsSection from '@/components/JoinUsSection';
+import NewsAndArticles from '@/components/NewsAndArticles';
 import React from 'react'
 
 const HomePage = () => {
