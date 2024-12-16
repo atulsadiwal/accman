@@ -7,6 +7,9 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundImage:{
+        'BG1': "url('/image/interested.jpg')",
+      }
     },
   },
   plugins: [],
